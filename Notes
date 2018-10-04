@@ -32,3 +32,12 @@ https://link.springer.com/chapter/10.1007/978-3-540-36841-0_1030
 https://ieeexplore.ieee.org/document/8337005
 http://www.cinc.org/archives/2017/pdf/028-317.pdf
 https://link.springer.com/chapter/10.1007/978-3-540-36841-0_1030
+
+http://iot-bits.com/interfacing-audio-codec-esp32/
+
+ESP32 Pinout I2S
+
+[ESP32] ----------- [Adafruit 98357A]
+GPIO22  ----------- DIN
+GPIO25 ----------- LRC
+GPIO26 ----------- BCLK
